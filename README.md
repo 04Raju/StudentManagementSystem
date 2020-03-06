@@ -2,6 +2,8 @@
 
 Hi, Guys
 This Is my First Java Project 
-If any quires just contact me on rajujettappa04@gmail.com
+
+
+If  you any quires just contact me on rajujettappa04@gmail.com
 
 Thanks...
